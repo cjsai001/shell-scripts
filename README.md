@@ -1,9 +1,5 @@
 # Shell Scripting for DevOps
 
-Zero to hero. Bash basics → real DevOps automation.
-
-**Udaan Batch 11 · TrainWithShubham**
-
 ---
 
 ## Start here
@@ -69,5 +65,3 @@ Stuck? `bash -x script.sh` shows every line as it runs.
 - [shellcheck.net](https://shellcheck.net) — paste your script, find bugs
 
 ---
-
-Likhna shuru karo. Galtiyaan karo. Phir se likho. **Bas yahi tarika hai.**
