@@ -28,4 +28,3 @@ echo "the second idiot is $2"
 echo "the third idiot is $3"
 
 echo "Hence the three iditos are $@"
-
